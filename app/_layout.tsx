@@ -11,6 +11,13 @@ export default function RootLayout(){
                         title:"Dólar americano"
                     }}
                 />
+
+                <Drawer.Screen 
+                    name="eur"
+                    options={{
+                        title:"Euro"
+                    }}
+                />
             </Drawer>
         </GestureHandlerRootView>
     )

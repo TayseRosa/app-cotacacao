@@ -9,9 +9,9 @@ export default function Screen(){
 
     const updateCurrency = async() => {
         setLoading(true)
-        const dolar = await getEUR()
+        const euro = await getEUR()
         setLoading(false)
-        setCurrentValue(dolar)
+        setCurrentValue(euro)
     }
 
     useEffect(()=>{
