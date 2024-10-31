@@ -1,14 +1,7 @@
-<p align="center">
-
-  <img src="readme1.jpeg" width="200">
-  <img src="readme2.jpeg" width="200">
-  <img src="readme3.jpeg" width="200">
-</p>
 <h1 align="center"> App Cotação de dólar</h1>
 
 <p align="center">Este projeto foi desenvolvido para relembrar e praciar conceitos de React Native,desenvolvendo um projeto de cotação de dolar e euro.</p>
 
-<br>
 🚀 Desenvolvedora:
 <a href="https://www.tayserosa.com">
 Tayse Rosa
@@ -16,9 +9,12 @@ Tayse Rosa
 <br>
 🟢 Status do projeto: Concluído
 
----
+
 <p align="center">
-  <img src="readme01.jpeg" width="400">
+
+  <img src="readme1.jpeg" width="200">
+  <img src="readme2.jpeg" width="200">
+  <img src="readme3.jpeg" width="200">
 </p>
 
 
