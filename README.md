@@ -4,7 +4,7 @@
 </p>
 <h1 align="center"> App Cotação de dólar</h1>
 
-<p align="center">Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em React Native,desenvolver um projeto de cotação de dolar.</p>
+<p align="center">Este projeto foi desenvolvido para relembrar e praciar conceitos de React Native,desenvolvendo um projeto de cotação de dolar e euro.</p>
 
 <br>
 🚀 Desenvolvedora:
@@ -12,7 +12,7 @@
 Tayse Rosa
 </a>
 <br>
-🟢 Status do projeto: Iniciando
+🟢 Status do projeto: Concluído
 
 ---
 <p align="center">
@@ -25,7 +25,8 @@ Tayse Rosa
     <li>React Native</li>
     <li>Expo</li>
     <li>Typescript</li>
-    <li>NativeWind </li>
+    <li>Drawer navigator </li>
+    <li>Integração com API (Awesome API) </li>
 </ul>
 
 
