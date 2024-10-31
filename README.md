@@ -1,6 +1,8 @@
 <p align="center">
 
-  <img src="" width="200">
+  <img src="readme1.jpeg" width="200">
+  <img src="readme2.jpeg" width="200">
+  <img src="readme3.jpeg" width="200">
 </p>
 <h1 align="center"> App Cotação de dólar</h1>
 
