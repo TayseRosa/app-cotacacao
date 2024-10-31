@@ -2,9 +2,9 @@
 
   <img src="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-0-1-1536x1536.png" width="200">
 </p>
-<h1 align="center"> Clone NuBank</h1>
+<h1 align="center"> App Cotação de dólar</h1>
 
-<p align="center">Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em React Native,desenvolver um projeto conceito com base no app NuBank.</p>
+<p align="center">Este projeto foi desenvolvido para praticar e consolidar os conhecimentos em React Native,desenvolver um projeto de cotação de dolar.</p>
 
 <br>
 🚀 Desenvolvedora:
@@ -12,7 +12,7 @@
 Tayse Rosa
 </a>
 <br>
-🟢 Status do projeto: Concluído
+🟢 Status do projeto: Iniciando
 
 ---
 <p align="center">
@@ -26,13 +26,12 @@ Tayse Rosa
     <li>Expo</li>
     <li>Typescript</li>
     <li>NativeWind </li>
-    <li>Tailwind </li>
 </ul>
 
 
 ## 🚀 Para você rodar o projeto
 ```
-Digite no prompt de comando: git clone https://github.com/TayseRosa/nubank.git
+Digite no prompt de comando: git clone https://github.com/TayseRosa/app-cotacao.git
 cd <nome da pasta do projeto>
 npm install
 npx expo start
